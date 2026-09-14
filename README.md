@@ -41,3 +41,4 @@ Colorado Technical University
 ## Connect
 
 - [GitHub](https://github.com/justinspratt07)
+- [LinkedIn](https://www.linkedin.com/in/justinlspratt/)
