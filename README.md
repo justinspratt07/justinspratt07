@@ -20,6 +20,7 @@ I am currently pursuing entry-level opportunities in **data analytics** and **so
 
 | Project | Highlights |
 |---|---|
+| [Android Product Catalog Search](https://github.com/justinspratt07/android-product-catalog-search) | Java and XML Views Android prototype using MVC, Observer, and an in-memory catalog Adapter. Portfolio reconstruction of December 2025 CS374 coursework from documented source; debug build and Android 16 emulator search states verified. REST/JSON integration is a future design extension. |
 | [Secure Agency Orders](https://github.com/justinspratt07/secure-agency-orders) · [Live demo](https://justinspratt07.github.io/secure-agency-orders/) | Java 21/JDBC purchasing application with agency-scoped orders, prepared SQL, catalog pricing, transactional audit records, and SQL spending reports. Twenty database tests run against H2 and MySQL in CI, with Docker Compose verification. The live demo is a separate browser-only simulation with fictional data. |
 | [CareerCommand](https://github.com/justinspratt07/career-command) | React and TypeScript job-application tracker with structured state, local persistence, Vitest, Playwright, and GitHub Actions CI. |
 | [Signal Loom](https://github.com/justinspratt07/signal-loom) | React and TypeScript GitHub issue-triage dashboard with explainable attention scoring, API integration, responsive design, and fallback data. |
@@ -31,7 +32,7 @@ I am currently pursuing entry-level opportunities in **data analytics** and **so
 | [Weather App](https://github.com/justinspratt07/weather-app) | Dog-themed web weather application demonstrating frontend development and API-driven functionality. |
 | [Made for Them](https://github.com/justinspratt07/made-for-them) | Next.js application project demonstrating modern React-based web development. |
 
-**Engineering tools:** Java, JDBC, MySQL, SQL, Docker Compose, Spring Boot, Python, Flask, React, TypeScript, JavaScript, HTML, CSS, REST APIs, Maven, JUnit, Playwright, Git, and GitHub Actions
+**Engineering tools:** Java, Android Studio, XML Views, Gradle, JDBC, MySQL, SQL, Docker Compose, Spring Boot, Python, Flask, React, TypeScript, JavaScript, HTML, CSS, REST APIs, Maven, JUnit, Playwright, Git, and GitHub Actions
 
 ## Education
 
