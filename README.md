@@ -1,20 +1,20 @@
 # Justin Spratt
 
-Recent **Summa Cum Laude Computer Science graduate** with a concentration in **Software Engineering** and a 3.99 GPA. I build data-driven analyses, machine-learning models, REST services, tested applications, and responsive web interfaces.
+Recent **Summa Cum Laude Computer Science graduate** with a concentration in **Software Engineering** and a 3.99 GPA. I build and ship practical applications using Java, Spring Boot, React, and TypeScript, alongside data analyses and machine-learning projects.
 
-I am currently pursuing entry-level opportunities in **data analytics** and **software engineering**.
+I am currently pursuing entry-level opportunities in **software engineering** and **data analytics**.
 
-## Data Analytics & Machine Learning
+## Featured Project: TallySkein
 
-| Project | Highlights |
-|---|---|
-| [German Credit Risk Classification](https://github.com/justinspratt07/german-credit-risk-ml) | Cost-sensitive classification using Python, pandas, scikit-learn, Logistic Regression, Random Forest, threshold tuning, automated tests, and CI. |
-| [NCHS Leading Causes of Death Analysis](https://github.com/justinspratt07/nchs-leading-causes-analysis) | Decision Tree analysis of CDC mortality data with preprocessing, exploratory analysis, evaluation metrics, and feature-importance reporting. |
-| [Titanic Passenger Survival Analysis](https://github.com/justinspratt07/titanic-survival-analysis) | K-Means clustering and Logistic Regression with data imputation, scaling, one-hot encoding, PCA, silhouette scoring, and ROC-AUC evaluation. |
-| [Elastic Cloud Log Analytics Dashboard](https://github.com/justinspratt07/elastic-cloud-log-analytics) | Elastic Cloud and Kibana proof of concept for centralized log analysis, operational dashboards, and evaluation of a managed cloud architecture. |
-| [Character-Level Text Generation](https://github.com/justinspratt07/character-level-text-generation) | Python text-generation project using an interpretable character-level Markov model, configurable generation settings, and a Jupyter walkthrough. |
+[TallySkein](https://tallyskein.app) is my installable knitting and crochet project tracker and pattern companion, built from my own experience as a crafter.
 
-**Analytics tools:** Python, SQL, pandas, NumPy, scikit-learn, Jupyter Notebook, Matplotlib, Kibana, Elasticsearch, and AWS
+- Track projects, rows, stitches, reminders, and time, with offline access.
+- Import PDFs, images, and documents; follow patterns with row highlighting, annotations, and a focused reading mode.
+- Preserve progress with IndexedDB storage and JSON backup and restore.
+- Test counting rules with Vitest and use Capacitor build workflows for mobile packaging.
+
+**Built with:** React, TypeScript, Vite, IndexedDB, Vitest, and Capacitor.  
+**[Try the live app](https://tallyskein.app)** · Source code is currently private.
 
 ## Software Engineering
 
@@ -32,7 +32,19 @@ I am currently pursuing entry-level opportunities in **data analytics** and **so
 | [Weather App](https://github.com/justinspratt07/weather-app) | Dog-themed web weather application demonstrating frontend development and API-driven functionality. |
 | [Made for Them](https://github.com/justinspratt07/made-for-them) | Next.js application project demonstrating modern React-based web development. |
 
-**Engineering tools:** Java, Android Studio, XML Views, Gradle, JDBC, MySQL, SQL, Docker Compose, Spring Boot, Python, Flask, React, TypeScript, JavaScript, HTML, CSS, REST APIs, Maven, JUnit, Playwright, Git, and GitHub Actions
+**Engineering tools:** Java, Android Studio, XML Views, Gradle, JDBC, MySQL, SQL, Docker Compose, Spring Boot, Python, Flask, React, TypeScript, JavaScript, HTML, CSS, Vite, Capacitor, IndexedDB, REST APIs, Maven, JUnit, Vitest, Playwright, Git, and GitHub Actions
+
+## Data Analytics & Machine Learning
+
+| Project | Highlights |
+|---|---|
+| [German Credit Risk Classification](https://github.com/justinspratt07/german-credit-risk-ml) | Cost-sensitive classification using Python, pandas, scikit-learn, Logistic Regression, Random Forest, threshold tuning, automated tests, and CI. |
+| [NCHS Leading Causes of Death Analysis](https://github.com/justinspratt07/nchs-leading-causes-analysis) | Decision Tree analysis of CDC mortality data with preprocessing, exploratory analysis, evaluation metrics, and feature-importance reporting. |
+| [Titanic Passenger Survival Analysis](https://github.com/justinspratt07/titanic-survival-analysis) | K-Means clustering and Logistic Regression with data imputation, scaling, one-hot encoding, PCA, silhouette scoring, and ROC-AUC evaluation. |
+| [Elastic Cloud Log Analytics Dashboard](https://github.com/justinspratt07/elastic-cloud-log-analytics) | Elastic Cloud and Kibana proof of concept for centralized log analysis, operational dashboards, and evaluation of a managed cloud architecture. |
+| [Character-Level Text Generation](https://github.com/justinspratt07/character-level-text-generation) | Python text-generation project using an interpretable character-level Markov model, configurable generation settings, and a Jupyter walkthrough. |
+
+**Analytics tools:** Python, SQL, pandas, NumPy, scikit-learn, Jupyter Notebook, Matplotlib, Kibana, Elasticsearch, and AWS
 
 ## Education
 
