@@ -1,20 +1,29 @@
 # Justin Spratt
 
-Recent **Summa Cum Laude Computer Science graduate** with a concentration in **Software Engineering** and a 3.99 GPA. I build and ship practical applications using Java, Spring Boot, React, and TypeScript, alongside data analyses and machine-learning projects.
+**Computer Science graduate, Summa Cum Laude · 3.99 GPA · Software Engineering concentration.** I build applications with Java, Spring Boot, React, and TypeScript, and develop data-analysis and machine-learning projects with Python and SQL.
 
-I am currently pursuing entry-level opportunities in **software engineering** and **data analytics**.
+Seeking entry-level roles in **software engineering** or **data analytics**.
 
-## Featured Project: TallySkein
+## Featured Project: Tallyskein
 
-[TallySkein](https://tallyskein.app) is my installable knitting and crochet project tracker and pattern companion, built from my own experience as a crafter.
+[Tallyskein](https://tallyskein.app) is my installable, offline-first project tracker and pattern companion for knitting, crochet, Tunisian crochet, and loom knitting, built from my experience as a crafter.
 
-- Track projects, rows, stitches, reminders, and time, with offline access.
-- Import PDFs, images, and documents; follow patterns with row highlighting, annotations, and a focused reading mode.
-- Preserve progress with IndexedDB storage and JSON backup and restore.
-- Test counting rules with Vitest and use Capacitor build workflows for mobile packaging.
+**Implemented features** (verified through October 5, 2026):
 
-**Built with:** React, TypeScript, Vite, IndexedDB, Vitest, and Capacitor.  
-**[Try the live app](https://tallyskein.app)** · Source code is currently private.
+- Track rows, stitches, goals, reminders, and time, with undo and counters that can move together within a project.
+- Follow text-based PDF and document patterns with smart row/range highlighting, annotations, and reading mode; photos and scans use a manual tracking bar. Detect pattern parts, preserve completed-part counts, and show progress across parts.
+- Import PDFs, images, Word (.docx), OpenDocument, RTF, text, Markdown, and HTML; import public pattern web pages with designer credit. Legacy .doc files require conversion.
+- Access Ravelry library PDFs through OAuth; use Google Drive, OneDrive, and Dropbox pickers when configured. iCloud and pattern-shop imports include file-selection guidance.
+- Replace a pattern while keeping counters, reminders, and notes (old-file markup is cleared); try a sample pattern, compare recognized end-of-row stitch counts with the Stitches counter, and use opt-in “next,” “back,” and “undo” voice commands in supported browsers.
+- Save projects locally in IndexedDB, export/restore JSON backups, and receive backup reminders. Guided tours, help/feedback, and a crash recovery screen support everyday use.
+- Integrate cookie-free Vercel Web Analytics and anonymous product-event hooks; custom event collection depends on the Vercel plan. Vitest covers counting rules, pattern parsing, part progress, and voice-command parsing.
+
+**Built with:** React, TypeScript, Vite, IndexedDB, Vitest, Capacitor, and Vercel serverless functions.  
+**[Try the live app](https://tallyskein.app)** · **[View the source and setup guide](https://github.com/justinspratt07/Tallyskein)**
+
+**Mobile setup:** Capacitor build workflows are included. Android development works on Windows with Android Studio 2025.2.1 or newer and initial native-project setup; receiving shared files requires Android manifest configuration. Local iOS builds require a Mac with Xcode 26 or newer; cloud build services are an alternative without a Mac, and iPhone sharing requires a Share Extension target.
+
+**Roadmap:** Account-based cross-device sync, mobile polish and store listings, AI-assisted pattern parsing, read-aloud, smartwatch counting, yarn/size calculators, shareable progress cards, and automatic stitch-goal setting. These are planned ideas, separate from the implemented features above.
 
 ## Software Engineering
 
