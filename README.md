@@ -39,9 +39,9 @@ Seeking entry-level roles in **software engineering** or **data analytics**.
 | [Swag Labs QA Automation](https://github.com/justinspratt07/swag-labs-qa-automation) | Playwright end-to-end test suite with manual test artifacts, traceability mapping, regression coverage, and continuous integration. |
 | [Simple Calculator](https://github.com/justinspratt07/SimpleCalc) | Java command-line application demonstrating input validation, Maven project organization, JUnit 5 coverage, and CI. |
 | [Weather App](https://github.com/justinspratt07/weather-app) | Dog-themed web weather application demonstrating frontend development and API-driven functionality. |
-| [Made for Them](https://github.com/justinspratt07/made-for-them) | Next.js application project demonstrating modern React-based web development. |
+| [Made For Them](https://github.com/justinspratt07/made-for-them) · [Static preview](https://justinspratt07.github.io/made-for-them/) | Next.js, React, and TypeScript handmade gift planner with 33 curated projects, rule-based matching, Supabase PostgreSQL/Drizzle persistence, and a password-protected owner editor for drafts, publishing, and crochet pattern notes. Twenty-four automated tests cover data integrity, validation, sessions, and editing safeguards. Database-backed deployment is not yet public. |
 
-**Engineering tools:** Java, Android Studio, XML Views, Gradle, JDBC, MySQL, SQL, Docker Compose, Spring Boot, Python, Flask, React, TypeScript, JavaScript, HTML, CSS, Vite, Capacitor, IndexedDB, REST APIs, Maven, JUnit, Vitest, Playwright, Git, and GitHub Actions
+**Engineering tools:** Java, Android Studio, XML Views, Gradle, JDBC, MySQL, PostgreSQL, SQL, Docker Compose, Spring Boot, Python, Flask, React, Next.js, TypeScript, JavaScript, HTML, CSS, Vite, Capacitor, IndexedDB, Supabase, Drizzle, REST APIs, Maven, JUnit, Vitest, Playwright, Git, and GitHub Actions
 
 ## Data Analytics & Machine Learning
 
